@@ -1,0 +1,3 @@
+development:
+  foo.property: "Foo Development Property"
+  foo.feature: true

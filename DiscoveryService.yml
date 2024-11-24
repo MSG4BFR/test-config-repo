@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: DiscoveryService
+production:
+  discovery.property: "Discovery Service Production Property"
+default:
+  discovery.property: "Discovery Service Default Property"
+sensitive.property: "{cipher}5aba258e1cfe6c7fcf7e179f7ec7fb7057038d0523dcfff885b4aaa4c791b801"
